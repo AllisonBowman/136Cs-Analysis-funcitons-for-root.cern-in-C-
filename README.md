@@ -63,7 +63,7 @@ The primary goal of this project was to analyze β-decay transitions and neutron
 
 Please cite this code and project using:
 
-> Bowman, A. (2023). *Analyzing Nuclear Decay Sequence of Cesium*. Triangle Universities Nuclear Laboratory.
+> Bowman, A. Daniels, T PhD. (2023). *Analyzing Nuclear Decay Sequence of Cesium*. Triangle Universities Nuclear Laboratory.
 
 ## Acknowledgements
 
